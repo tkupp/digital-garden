@@ -1,6 +1,6 @@
 ---
 title: ambiguity
-draft: false
+draft: true
 tags:
   - VUCA
 ---
