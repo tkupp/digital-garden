@@ -1,7 +1,7 @@
 ---
-title: Address systems behavior, avoiding point solutions or magic bullets
+title: Address systems behavior
 draft: 
 tags:
   - heuristic
 ---
- 
+Avoid point solutions or magic bullets

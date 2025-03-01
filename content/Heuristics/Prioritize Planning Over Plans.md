@@ -1,5 +1,5 @@
 ---
-title: Planning is more important than plans
+title: Prioritize planning over plans
 draft: true
 tags:
   - heuristic

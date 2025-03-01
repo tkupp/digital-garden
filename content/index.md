@@ -1,8 +1,10 @@
 ---
-title: Welcome to Abductive Heuristics Toolkit
+title: Open Toolkit for Navigating Complexity
 ---
 
 In environments characterized by high uncertainty, incomplete data, or excessive complexity, traditional analytical approaches often fall short. This  [digital garden](https://jzhao.xyz/posts/networked-thought) is an open-ended investigation of how Abductive Heuristics and their associated Tactics are used in collaborative settings to navigate complex adaptive systems (CAS).
+
+This project is undertaken within the [Synthesis Center](https://synthesiscenter.net/projects/abductive-heuristics/) at Arizona State University.
 
 **Abductive Heuristics (AH):**
 These are concepts to keep in mind when looking at a complex system, organization, or situation. Skilled navigators, business leaders, and creative executives (should) use heuristics where there's no model, inadequate data, too much data, or where key factors are effectively invisible to the standard way of managing a situation. Experience helps. The AH toolkit condenses experience and knowledge from studying complex adaptive systems, chaotic human behavior, and more than human ecologies and evolutions.
